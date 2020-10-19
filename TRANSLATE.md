@@ -1,4 +1,4 @@
-# Translators
+# Translators.
 
 You can translate the website online on the elementary Weblate instance: https://l10n.elementary.io/projects/website/. Please don't update directly files in `_lang/` on Github as they'll be overridden when pulling new translations.
 
